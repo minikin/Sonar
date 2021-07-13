@@ -43,7 +43,7 @@
     "adbkit-fb": "2.10.1",
     "ansi-to-html": "^0.6.3",
     "chalk": "^2.3.0",
-    "codemirror": "^5.25.0",
+    "codemirror": "^5.58.2",
     "dashify": "^1.0.0",
     "deep-equal": "^1.0.1",
     "detect-port": "^1.1.1",
